@@ -1,6 +1,6 @@
 ###############
 #testing git stuff/repository and basic commands, pycharm automatically saveswhich is nice
-###making eidts
+###making eidts try 3
 
 # Toy graphene model
 
