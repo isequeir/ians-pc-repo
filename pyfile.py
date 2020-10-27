@@ -2,6 +2,8 @@
 #testing git stuff/repository and basic commands, pycharm automatically saveswhich is nice
 ### making eidts try 3
 
+#partial commits
+#
 # Toy graphene model
 
 # Copyright under GNU General Public License 2010, 2012, 2016
